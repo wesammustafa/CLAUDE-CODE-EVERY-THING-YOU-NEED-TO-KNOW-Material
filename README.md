@@ -1,5 +1,10 @@
 # CLAUDE CODE EVERY THING YOU NEED TO KNOW: Material
 
+[![Complete Node.js Course](assets/thumbnail.jpg)](https://www.youtube.com/playlist?list=PLJv22rmYzZEk)
+
+> [!IMPORTANT]
+> **Watch the full course on YouTube:** [https://www.youtube.com/playlist?list=PLJv22rmYzZEk](https://www.youtube.com/playlist?list=PLJv22rmYzZEk)
+
 Slide decks (PDF) for the course, one per day.
 
 | File | Content |
