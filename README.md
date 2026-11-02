@@ -1,4 +1,4 @@
-# CLAUDE CODE EVERY THING YOU NEED TO KNOW: Material
+# NODEJS EVERY THING YOU NEED TO KNOW: Material
 
 [![Complete Node.js Course](assets/thumbnail.jpg)](https://www.youtube.com/playlist?list=PLJv22rmYzZEk)
 
